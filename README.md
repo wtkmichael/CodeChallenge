@@ -24,3 +24,4 @@ The first script can be ran as per normal, while the script to generate bokeh pl
 ### Improvement Ideas/Future Plan
 1. Instead using numpy.correlate which is computationally expensive, Fast Fourier Transform can be used to speed up correlation calculation.
 2. The comparison between time series should be expand to include nearby LSOA
+3. Tableau can be used for interactive data visualisation.
