@@ -47,7 +47,7 @@ plot = GMapPlot(
 plot.title.text = "London Crime Correlation Heatmap"
 
 # For GMaps to function, Google requires you obtain and enable an API key:
-plot.api_key = "AIzaSyDtqvTUngIFXhplF4PPjcnJzCqy-it2OmE"
+plot.api_key = "[ENTER YOUR GOOGLE MAP API KEY HERE]"
     
 hover = HoverTool(tooltips=[("CountySel", "@acounty"),
                             ("CountyComp", "@county"),
